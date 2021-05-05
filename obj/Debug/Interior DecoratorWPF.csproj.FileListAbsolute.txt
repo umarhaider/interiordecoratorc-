@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Interior DecoratorWPF\Interior DecoratorWPF\bin\Debug\Interior DecoratorWPF.exe.config
+C:\Users\Owner\source\repos\Interior DecoratorWPF\Interior DecoratorWPF\bin\Debug\Interior DecoratorWPF.exe
+C:\Users\Owner\source\repos\Interior DecoratorWPF\Interior DecoratorWPF\bin\Debug\Interior DecoratorWPF.pdb
+C:\Users\Owner\source\repos\Interior DecoratorWPF\Interior DecoratorWPF\obj\Debug\Interior DecoratorWPF.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Interior DecoratorWPF\Interior DecoratorWPF\obj\Debug\Interior_DecoratorWPF.Form1.resources
+C:\Users\Owner\source\repos\Interior DecoratorWPF\Interior DecoratorWPF\obj\Debug\Interior_DecoratorWPF.Properties.Resources.resources
+C:\Users\Owner\source\repos\Interior DecoratorWPF\Interior DecoratorWPF\obj\Debug\Interior DecoratorWPF.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Interior DecoratorWPF\Interior DecoratorWPF\obj\Debug\Interior DecoratorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Interior DecoratorWPF\Interior DecoratorWPF\obj\Debug\Interior DecoratorWPF.exe
+C:\Users\Owner\source\repos\Interior DecoratorWPF\Interior DecoratorWPF\obj\Debug\Interior DecoratorWPF.pdb
